@@ -27,6 +27,8 @@ out/
 build
 dist
 
+**node_modules
+**.env
 
 # Debug
 npm-debug.log*
